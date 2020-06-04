@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "libData": [
+    { "title"     :  "To Kill a Mockingbird", 
+      "author"    :   "Harper Lee", 
+      "genre"     :   "Classsic", 
+      "price"     :   450, 
+      "publisher" :   "ModernClassics", 
+      "synopsis"  :   "Harper Lee's Pulitzer Prize-winning masterwork of honor and injustice in the deep South—and the heroism of one man in the face of blind and violent hatred", 
+      "stock"     : 10
+    }]
 }
+

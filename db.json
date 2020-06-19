@@ -1,12 +1,13 @@
 {
   "libData": [
-    { "title"     :  "To Kill a Mockingbird", 
+    { "isbnNo"    :   1234567890123,
+      "title"     :   "To Kill a Mockingbird", 
       "author"    :   "Harper Lee", 
       "genre"     :   "Classsic", 
       "price"     :   450, 
       "publisher" :   "ModernClassics", 
       "synopsis"  :   "Harper Lee's Pulitzer Prize-winning masterwork of honor and injustice in the deep South—and the heroism of one man in the face of blind and violent hatred", 
-      "stock"     : 10
+      "stock"     :   10
     }]
 }
 

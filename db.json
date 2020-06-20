@@ -8,6 +8,15 @@
       "publisher" :   "ModernClassics", 
       "synopsis"  :   "Harper Lee's Pulitzer Prize-winning masterwork of honor and injustice in the deep South—and the heroism of one man in the face of blind and violent hatred", 
       "stock"     :   10
+    },
+    { "isbnNo"    :   9876543210123,
+      "title"     :   "The Three Musketeers", 
+      "author"    :   "Alexandre Dumas", 
+      "genre"     :   "Action and Adventure", 
+      "price"     :   550, 
+      "publisher" :   "Paperback", 
+      "synopsis"  :   "Set in the 17th century, it recounts the adventures of a young man named d'Artagnan after he leaves home to travel to Paris, to join the Musketeers of the Guard. D'Artagnan is not one of the musketeers of the title; those being his friends Athos, Porthos and Aramis, inseparable friends who live by the motto "all for one, one for all", a motto which is first put forth by d'Artagnan", 
+      "stock"     :   18
     }]
 }
 
